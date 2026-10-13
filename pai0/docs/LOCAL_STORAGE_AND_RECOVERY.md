@@ -14,8 +14,8 @@
 | 本地内容 | 用途与恢复方式 | 清理原则 |
 | --- | --- | --- |
 | `D:\xiao\pi0_download\pi0_libero` | 约 11.19 GiB 的官方模型检查点。上游地址为 `gs://openpi-assets/checkpoints/pi0_libero`；使用项目固定版本的 OpenPI 下载工具重新获取。 | 当前仍保留本地副本；仓库里只有来源说明，没有模型字节。 |
-| `D:\xiao\pi0_env_transfer`、`D:\xiao\pi0_libero_transfer` | 约 22.44 GiB 的旧云端传输包、Linux Python 虚拟环境、`uv` 缓存和安装轮子。可按 `docs/RUNBOOK.md` 与项目配置重新安装。 | 属于可重建缓存，不是训练权重或评测结果；清理后再次离线部署需要重新准备。 |
-| `D:\xiao\WSL\openpi-downloads` | 约 0.27 GiB 的 OpenPI/LIBERO 离线源码归档和部分下载文件。 | 可从上游重新取得。 |
+| 原 `D:\xiao\pi0_env_transfer`、`D:\xiao\pi0_libero_transfer` | 约 22.44 GiB 的旧云端传输包、Linux Python 虚拟环境、`uv` 缓存和安装轮子。可按 `docs/RUNBOOK.md` 与项目配置重新安装。 | 2026-10-13 已清理；不是训练权重或评测结果，再次离线部署需要重新准备。 |
+| 原 `D:\xiao\WSL\openpi-downloads` | 约 0.27 GiB 的 OpenPI/LIBERO 离线源码归档和部分下载文件。 | 2026-10-13 已清理；可从上游重新取得。 |
 | `D:\xiao\WSL\openpi-ubuntu-22.04\ext4.vhdx` | 约 31.24 GiB 的 π₀ 专用 WSL 系统盘。 | **未上传，也未删除**。它可能包含安装状态或尚未盘点的文件；不能把删掉它当作普通缓存清理。 |
 
 GitHub 普通 Git 文件有 [100 MiB 单文件上限](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)，因此不能直接把上述多 GiB 文件加入 `pai0/`。Git LFS 有独立存储与带宽配额；启用或付费前需要单独决定。官方权重来自上游，不是本项目训练产物。
