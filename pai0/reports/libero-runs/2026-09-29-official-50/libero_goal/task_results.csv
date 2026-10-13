@@ -1,0 +1,11 @@
+﻿suite,task_index,task_name,episodes,successes,failures,success_rate,log_file
+libero_goal,0,open the middle drawer of the cabinet,50,50,0,1.0,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,1,put the bowl on the stove,50,47,3,0.94,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,2,put the wine bottle on top of the cabinet,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,3,open the top drawer and put the bowl inside,50,39,11,0.78,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,4,put the bowl on top of the cabinet,50,50,0,1.0,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,5,push the plate to the front of the stove,50,47,3,0.94,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,6,put the cream cheese in the bowl,50,44,6,0.88,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,7,turn on the stove,50,50,0,1.0,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,8,put the bowl on the plate,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log
+libero_goal,9,put the wine bottle on the rack,50,38,12,0.76,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_goal\evaluation.log

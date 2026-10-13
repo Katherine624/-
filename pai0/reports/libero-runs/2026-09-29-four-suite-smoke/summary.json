@@ -1,0 +1,657 @@
+{
+  "model": "pi0_libero",
+  "trials_per_task": 1,
+  "result_stage": "small_sample_smoke_test",
+  "checkpoint_source": "official-published",
+  "checkpoint_uri": "gs://openpi-assets/checkpoints/pi0_libero",
+  "training_performed_by_this_project": false,
+  "experiment_type": "public_LIBERO_proxy_not_paper_original_experiment",
+  "suites": [
+    {
+      "suite": "libero_spatial",
+      "episodes": 10,
+      "successes": 9,
+      "success_rate": 0.9,
+      "task_success_rates": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "task_results": [
+        {
+          "task_index": 0,
+          "task_name": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 1,
+          "task_name": "pick up the black bowl next to the ramekin and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 2,
+          "task_name": "pick up the black bowl from table center and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 3,
+          "task_name": "pick up the black bowl on the cookie box and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 4,
+          "task_name": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+          "episodes": 1,
+          "successes": 0,
+          "failures": 1,
+          "success_rate": 0.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": false
+            }
+          ]
+        },
+        {
+          "task_index": 5,
+          "task_name": "pick up the black bowl on the ramekin and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 6,
+          "task_name": "pick up the black bowl next to the cookie box and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 7,
+          "task_name": "pick up the black bowl on the stove and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 8,
+          "task_name": "pick up the black bowl next to the plate and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 9,
+          "task_name": "pick up the black bowl on the wooden cabinet and place it on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        }
+      ],
+      "log_file": "D:\\xiao\\Documents\\ChatGPT\\Π0\\reports\\libero-runs\\2026-09-29-four-suite-smoke\\libero-smoke-spatial-s7ryb4fgkw.log"
+    },
+    {
+      "suite": "libero_object",
+      "episodes": 10,
+      "successes": 9,
+      "success_rate": 0.9,
+      "task_success_rates": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "task_results": [
+        {
+          "task_index": 0,
+          "task_name": "pick up the alphabet soup and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 1,
+          "task_name": "pick up the cream cheese and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 2,
+          "task_name": "pick up the salad dressing and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 3,
+          "task_name": "pick up the bbq sauce and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 4,
+          "task_name": "pick up the ketchup and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 5,
+          "task_name": "pick up the tomato sauce and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 6,
+          "task_name": "pick up the butter and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 7,
+          "task_name": "pick up the milk and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 8,
+          "task_name": "pick up the chocolate pudding and place it in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 9,
+          "task_name": "pick up the orange juice and place it in the basket",
+          "episodes": 1,
+          "successes": 0,
+          "failures": 1,
+          "success_rate": 0.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": false
+            }
+          ]
+        }
+      ],
+      "log_file": "D:\\xiao\\Documents\\ChatGPT\\Π0\\reports\\libero-runs\\2026-09-29-four-suite-smoke\\libero-smoke-object-s7ryb4fgkw.log"
+    },
+    {
+      "suite": "libero_goal",
+      "episodes": 10,
+      "successes": 9,
+      "success_rate": 0.9,
+      "task_success_rates": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "task_results": [
+        {
+          "task_index": 0,
+          "task_name": "open the middle drawer of the cabinet",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 1,
+          "task_name": "put the bowl on the stove",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 2,
+          "task_name": "put the wine bottle on top of the cabinet",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 3,
+          "task_name": "open the top drawer and put the bowl inside",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 4,
+          "task_name": "put the bowl on top of the cabinet",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 5,
+          "task_name": "push the plate to the front of the stove",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 6,
+          "task_name": "put the cream cheese in the bowl",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 7,
+          "task_name": "turn on the stove",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 8,
+          "task_name": "put the bowl on the plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 9,
+          "task_name": "put the wine bottle on the rack",
+          "episodes": 1,
+          "successes": 0,
+          "failures": 1,
+          "success_rate": 0.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": false
+            }
+          ]
+        }
+      ],
+      "log_file": "D:\\xiao\\Documents\\ChatGPT\\Π0\\reports\\libero-runs\\2026-09-29-four-suite-smoke\\libero-smoke-goal-s7ryb4fgkw.log"
+    },
+    {
+      "suite": "libero_10",
+      "episodes": 10,
+      "successes": 7,
+      "success_rate": 0.7,
+      "task_success_rates": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      "task_results": [
+        {
+          "task_index": 0,
+          "task_name": "put both the alphabet soup and the tomato sauce in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 1,
+          "task_name": "put both the cream cheese box and the butter in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 2,
+          "task_name": "turn on the stove and put the moka pot on it",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 3,
+          "task_name": "put the black bowl in the bottom drawer of the cabinet and close it",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 4,
+          "task_name": "put the white mug on the left plate and put the yellow and white mug on the right plate",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 5,
+          "task_name": "pick up the book and place it in the back compartment of the caddy",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 6,
+          "task_name": "put the white mug on the plate and put the chocolate pudding to the right of the plate",
+          "episodes": 1,
+          "successes": 0,
+          "failures": 1,
+          "success_rate": 0.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": false
+            }
+          ]
+        },
+        {
+          "task_index": 7,
+          "task_name": "put both the alphabet soup and the cream cheese box in the basket",
+          "episodes": 1,
+          "successes": 1,
+          "failures": 0,
+          "success_rate": 1.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": true
+            }
+          ]
+        },
+        {
+          "task_index": 8,
+          "task_name": "put both moka pots on the stove",
+          "episodes": 1,
+          "successes": 0,
+          "failures": 1,
+          "success_rate": 0.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": false
+            }
+          ]
+        },
+        {
+          "task_index": 9,
+          "task_name": "put the yellow and white mug in the microwave and close it",
+          "episodes": 1,
+          "successes": 0,
+          "failures": 1,
+          "success_rate": 0.0,
+          "episode_results": [
+            {
+              "episode_index": 1,
+              "success": false
+            }
+          ]
+        }
+      ],
+      "log_file": "D:\\xiao\\Documents\\ChatGPT\\Π0\\reports\\libero-runs\\2026-09-29-four-suite-smoke\\libero-smoke-10-s7ryb4fgkw.log"
+    }
+  ],
+  "macro_average_success_rate": 0.85,
+  "complete_four_suite_benchmark": false
+}

@@ -1,0 +1,182 @@
+2026-09-29T01:54:34+08:00
+[1m[33m[robosuite WARNING] [0mNo private macro file found! (macros.py:53)
+[1m[33m[robosuite WARNING] [0mIt is recommended to use a private macro file (macros.py:54)
+[1m[33m[robosuite WARNING] [0mTo setup, run: python /root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/scripts/setup_macros.py (macros.py:55)
+[info] using task orders [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+INFO:root:Task suite: libero_10
+INFO:root:Waiting for server at ws://127.0.0.1:8000...
+  0%|                                                    | 0/10 [00:00<?, ?it/s][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/numba/np/arraymath.py:3845: DeprecationWarning: `np.MachAr` is deprecated (NumPy 1.22).
+  @overload(np.MachAr)
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put both the alphabet soup and the tomato sauce in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 1
+INFO:root:# successes: 1 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:09<00:00,  9.82s/it][A100%|█████████████████████████████████████████████| 1/1 [00:09<00:00,  9.82s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 10%|████▍                                       | 1/10 [00:11<01:46, 11.82s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put both the cream cheese box and the butter in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 2
+INFO:root:# successes: 2 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:09<00:00,  9.23s/it][A100%|█████████████████████████████████████████████| 1/1 [00:09<00:00,  9.23s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 20%|████████▊                                   | 2/10 [00:22<01:27, 10.88s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: turn on the stove and put the moka pot on it
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 3
+INFO:root:# successes: 3 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:06<00:00,  6.69s/it][A100%|█████████████████████████████████████████████| 1/1 [00:06<00:00,  6.69s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 30%|█████████████▏                              | 3/10 [00:29<01:04,  9.26s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put the black bowl in the bottom drawer of the cabinet and close it
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 4
+INFO:root:# successes: 4 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:07<00:00,  7.10s/it][A100%|█████████████████████████████████████████████| 1/1 [00:07<00:00,  7.10s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 40%|█████████████████▌                          | 4/10 [00:37<00:52,  8.79s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put the white mug on the left plate and put the yellow and white mug on the right plate
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 5
+INFO:root:# successes: 5 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:08<00:00,  8.26s/it][A100%|█████████████████████████████████████████████| 1/1 [00:08<00:00,  8.26s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 50%|██████████████████████                      | 5/10 [00:48<00:47,  9.47s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the book and place it in the back compartment of the caddy
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 6
+INFO:root:# successes: 6 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:07<00:00,  7.39s/it][A100%|█████████████████████████████████████████████| 1/1 [00:07<00:00,  7.39s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 60%|██████████████████████████▍                 | 6/10 [00:56<00:36,  9.15s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put the white mug on the plate and put the chocolate pudding to the right of the plate
+INFO:root:Starting episode 1...
+INFO:root:Success: False
+INFO:root:# episodes completed so far: 7
+INFO:root:# successes: 6 (85.7%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:15<00:00, 15.52s/it][A100%|█████████████████████████████████████████████| 1/1 [00:15<00:00, 15.52s/it]
+INFO:root:Current task success rate: 0.0
+INFO:root:Current total success rate: 0.8571428571428571
+ 70%|██████████████████████████████▊             | 7/10 [01:13<00:34, 11.54s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put both the alphabet soup and the cream cheese box in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 8
+INFO:root:# successes: 7 (87.5%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:08<00:00,  8.17s/it][A100%|█████████████████████████████████████████████| 1/1 [00:08<00:00,  8.17s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 0.875
+ 80%|███████████████████████████████████▏        | 8/10 [01:22<00:21, 10.71s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put both moka pots on the stove
+INFO:root:Starting episode 1...
+INFO:root:Success: False
+INFO:root:# episodes completed so far: 9
+INFO:root:# successes: 7 (77.8%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:15<00:00, 15.82s/it][A100%|█████████████████████████████████████████████| 1/1 [00:15<00:00, 15.82s/it]
+INFO:root:Current task success rate: 0.0
+INFO:root:Current total success rate: 0.7777777777777778
+ 90%|███████████████████████████████████████▌    | 9/10 [01:38<00:12, 12.44s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: put the yellow and white mug in the microwave and close it
+INFO:root:Starting episode 1...
+INFO:root:Success: False
+INFO:root:# episodes completed so far: 10
+INFO:root:# successes: 7 (70.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:15<00:00, 15.75s/it][A100%|█████████████████████████████████████████████| 1/1 [00:15<00:00, 15.75s/it]
+INFO:root:Current task success rate: 0.0
+INFO:root:Current total success rate: 0.7
+100%|███████████████████████████████████████████| 10/10 [01:54<00:00, 13.66s/it]100%|███████████████████████████████████████████| 10/10 [01:54<00:00, 11.47s/it]
+INFO:root:Total success rate: 0.7
+INFO:root:Total episodes: 10
+Exception ignored in: <function MjRenderContext.__del__ at 0x7f1eeee97f70>
+Traceback (most recent call last):
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/utils/binding_utils.py", line 199, in __del__
+    self.gl_ctx.free()
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/renderers/context/egl_context.py", line 149, in free
+    EGL.eglMakeCurrent(EGL_DISPLAY, EGL.EGL_NO_SURFACE, EGL.EGL_NO_SURFACE, EGL.EGL_NO_CONTEXT)
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/OpenGL/error.py", line 230, in glCheckError
+    raise self._errorClass(
+OpenGL.raw.EGL._errors.EGLError: EGLError(
+        err = EGL_NOT_INITIALIZED,
+        baseOperation = eglMakeCurrent,
+        cArguments = (
+                <OpenGL._opaque.EGLDisplay_pointer object at 0x7f1e06aad8c0>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f1ef1830640>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f1ef1830640>,
+                <OpenGL._opaque.EGLContext_pointer object at 0x7f1ef1830140>,
+        ),
+        result = 0
+)
+Exception ignored in: <function EGLGLContext.__del__ at 0x7f1eeee97dc0>
+Traceback (most recent call last):
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/renderers/context/egl_context.py", line 155, in __del__
+    self.free()
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/renderers/context/egl_context.py", line 149, in free
+    EGL.eglMakeCurrent(EGL_DISPLAY, EGL.EGL_NO_SURFACE, EGL.EGL_NO_SURFACE, EGL.EGL_NO_CONTEXT)
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/OpenGL/error.py", line 230, in glCheckError
+    raise self._errorClass(
+OpenGL.raw.EGL._errors.EGLError: EGLError(
+        err = EGL_NOT_INITIALIZED,
+        baseOperation = eglMakeCurrent,
+        cArguments = (
+                <OpenGL._opaque.EGLDisplay_pointer object at 0x7f1e06aad8c0>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f1ef1830640>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f1ef1830640>,
+                <OpenGL._opaque.EGLContext_pointer object at 0x7f1ef1830140>,
+        ),
+        result = 0
+)
+RUN_EXIT:0
+2026-09-29T01:56:30+08:00

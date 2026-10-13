@@ -1,0 +1,19 @@
+{
+  "provenance": "TOY_EDUCATIONAL_SIMULATION_NOT_PI0_NOT_LIBERO",
+  "data": "generated numeric visual features, task one-hot vectors, state, and 50x7 action chunks",
+  "model": "tiny conditional MLP, not PaliGemma or the pi0 action expert",
+  "device": "CPU",
+  "seed": 7,
+  "steps": 300,
+  "batch_size": 64,
+  "trainable_parameters": 176030,
+  "flow_target": "x_t=t*noise+(1-t)*actions; velocity=noise-actions; MSE",
+  "initial_validation_flow_mse": 1.1446592807769775,
+  "final_validation_flow_mse": 0.7743430733680725,
+  "initial_generated_action_mse": 1.146120309829712,
+  "final_generated_action_mse": 0.6892459392547607,
+  "elapsed_seconds": 0.4691290199999969,
+  "checkpoint_sha256": "9fc98bba396f7ad45e777ca631a937d5eb3c59c559631e47f0e7834ed6bb1269",
+  "checkpoint_reload_verified": true,
+  "not_a_libero_success_rate": true
+}

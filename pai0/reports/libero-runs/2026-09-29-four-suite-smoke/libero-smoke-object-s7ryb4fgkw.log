@@ -1,0 +1,179 @@
+[1m[33m[robosuite WARNING] [0mNo private macro file found! (macros.py:53)
+[1m[33m[robosuite WARNING] [0mIt is recommended to use a private macro file (macros.py:54)
+[1m[33m[robosuite WARNING] [0mTo setup, run: python /root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/scripts/setup_macros.py (macros.py:55)
+[info] using task orders [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+INFO:root:Task suite: libero_object
+INFO:root:Waiting for server at ws://127.0.0.1:8000...
+  0%|                                                    | 0/10 [00:00<?, ?it/s][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/numba/np/arraymath.py:3845: DeprecationWarning: `np.MachAr` is deprecated (NumPy 1.22).
+  @overload(np.MachAr)
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the alphabet soup and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 1
+INFO:root:# successes: 1 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:06<00:00,  6.14s/it][A100%|█████████████████████████████████████████████| 1/1 [00:06<00:00,  6.14s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 10%|████▍                                       | 1/10 [00:07<01:09,  7.75s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the cream cheese and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 2
+INFO:root:# successes: 2 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:07<00:00,  7.88s/it][A100%|█████████████████████████████████████████████| 1/1 [00:07<00:00,  7.88s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 20%|████████▊                                   | 2/10 [00:16<01:06,  8.30s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the salad dressing and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 3
+INFO:root:# successes: 3 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.63s/it][A100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.63s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 30%|█████████████▏                              | 3/10 [00:21<00:48,  6.99s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the bbq sauce and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 4
+INFO:root:# successes: 4 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:06<00:00,  6.33s/it][A100%|█████████████████████████████████████████████| 1/1 [00:06<00:00,  6.33s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 40%|█████████████████▌                          | 4/10 [00:29<00:42,  7.06s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the ketchup and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 5
+INFO:root:# successes: 5 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:05<00:00,  5.09s/it][A100%|█████████████████████████████████████████████| 1/1 [00:05<00:00,  5.09s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 50%|██████████████████████                      | 5/10 [00:34<00:33,  6.60s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the tomato sauce and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 6
+INFO:root:# successes: 6 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.93s/it][A100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.93s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 60%|██████████████████████████▍                 | 6/10 [00:40<00:25,  6.28s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the butter and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 7
+INFO:root:# successes: 7 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:05<00:00,  5.57s/it][A100%|█████████████████████████████████████████████| 1/1 [00:05<00:00,  5.57s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 70%|██████████████████████████████▊             | 7/10 [00:46<00:18,  6.29s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the milk and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 8
+INFO:root:# successes: 8 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.80s/it][A100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.80s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 80%|███████████████████████████████████▏        | 8/10 [00:52<00:12,  6.04s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the chocolate pudding and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: True
+INFO:root:# episodes completed so far: 9
+INFO:root:# successes: 9 (100.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:05<00:00,  5.17s/it][A100%|█████████████████████████████████████████████| 1/1 [00:05<00:00,  5.17s/it]
+INFO:root:Current task success rate: 1.0
+INFO:root:Current total success rate: 1.0
+ 90%|███████████████████████████████████████▌    | 9/10 [00:58<00:05,  5.97s/it][Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+[Warning]: datasets path /root/autodl-tmp/openpi/third_party/libero/libero/datasets does not exist!
+
+  0%|                                                     | 0/1 [00:00<?, ?it/s][AINFO:root:
+Task: pick up the orange juice and place it in the basket
+INFO:root:Starting episode 1...
+INFO:root:Success: False
+INFO:root:# episodes completed so far: 10
+INFO:root:# successes: 9 (90.0%)
+
+100%|█████████████████████████████████████████████| 1/1 [00:08<00:00,  8.99s/it][A100%|█████████████████████████████████████████████| 1/1 [00:08<00:00,  8.99s/it]
+INFO:root:Current task success rate: 0.0
+INFO:root:Current total success rate: 0.9
+100%|███████████████████████████████████████████| 10/10 [01:07<00:00,  7.11s/it]100%|███████████████████████████████████████████| 10/10 [01:07<00:00,  6.78s/it]
+INFO:root:Total success rate: 0.9
+INFO:root:Total episodes: 10
+Exception ignored in: <function MjRenderContext.__del__ at 0x7f231866af70>
+Traceback (most recent call last):
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/utils/binding_utils.py", line 199, in __del__
+    self.gl_ctx.free()
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/renderers/context/egl_context.py", line 149, in free
+    EGL.eglMakeCurrent(EGL_DISPLAY, EGL.EGL_NO_SURFACE, EGL.EGL_NO_SURFACE, EGL.EGL_NO_CONTEXT)
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/OpenGL/error.py", line 230, in glCheckError
+    raise self._errorClass(
+OpenGL.raw.EGL._errors.EGLError: EGLError(
+        err = EGL_NOT_INITIALIZED,
+        baseOperation = eglMakeCurrent,
+        cArguments = (
+                <OpenGL._opaque.EGLDisplay_pointer object at 0x7f22f8d29840>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f23186d0640>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f23186d0640>,
+                <OpenGL._opaque.EGLContext_pointer object at 0x7f23186d0140>,
+        ),
+        result = 0
+)
+Exception ignored in: <function EGLGLContext.__del__ at 0x7f231866adc0>
+Traceback (most recent call last):
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/renderers/context/egl_context.py", line 155, in __del__
+    self.free()
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/robosuite/renderers/context/egl_context.py", line 149, in free
+    EGL.eglMakeCurrent(EGL_DISPLAY, EGL.EGL_NO_SURFACE, EGL.EGL_NO_SURFACE, EGL.EGL_NO_CONTEXT)
+  File "/root/autodl-tmp/libero-py38/lib/python3.8/site-packages/OpenGL/error.py", line 230, in glCheckError
+    raise self._errorClass(
+OpenGL.raw.EGL._errors.EGLError: EGLError(
+        err = EGL_NOT_INITIALIZED,
+        baseOperation = eglMakeCurrent,
+        cArguments = (
+                <OpenGL._opaque.EGLDisplay_pointer object at 0x7f22f8d29840>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f23186d0640>,
+                <OpenGL._opaque.EGLSurface_pointer object at 0x7f23186d0640>,
+                <OpenGL._opaque.EGLContext_pointer object at 0x7f23186d0140>,
+        ),
+        result = 0
+)

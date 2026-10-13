@@ -1,0 +1,9 @@
+run_started=2026-09-29T02:27:16+08:00
+model_source=official-published
+checkpoint=/root/autodl-tmp/openpi-assets/checkpoints/pi0_libero
+openpi_commit=215abfb217dbac7d5f1273282331b9b1866c0479
+trials_per_task=50
+seed=7
+replan_steps=5
+evaluation_deadline=2026-09-29T06:42:16+08:00
+RUNNER_END=2026-09-29T06:02:46+08:00

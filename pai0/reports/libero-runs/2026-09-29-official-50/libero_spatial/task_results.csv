@@ -1,0 +1,11 @@
+﻿suite,task_index,task_name,episodes,successes,failures,success_rate,log_file
+libero_spatial,0,pick up the black bowl between the plate and the ramekin and place it on the plate,50,50,0,1.0,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,1,pick up the black bowl next to the ramekin and place it on the plate,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,2,pick up the black bowl from table center and place it on the plate,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,3,pick up the black bowl on the cookie box and place it on the plate,50,50,0,1.0,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,4,pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate,50,45,5,0.9,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,5,pick up the black bowl on the ramekin and place it on the plate,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,6,pick up the black bowl next to the cookie box and place it on the plate,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,7,pick up the black bowl on the stove and place it on the plate,50,50,0,1.0,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,8,pick up the black bowl next to the plate and place it on the plate,50,49,1,0.98,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
+libero_spatial,9,pick up the black bowl on the wooden cabinet and place it on the plate,50,46,4,0.92,D:\xiao\Documents\ChatGPT\Π0\reports\libero-runs\2026-09-29-official-50\libero_spatial\evaluation.log
