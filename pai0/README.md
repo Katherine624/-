@@ -22,3 +22,5 @@
 四个正式套件的 `.tar.gz` 是原始结果归档，内含逐次视频和日志；同目录的 `.sha256` 用于校验。GitHub 上没有再放一份解压后的 2000 个 MP4，以免重复占用空间。下载相应归档后可用 `tar -xzf 文件名.tar.gz` 解压。四套的成功数分别是：`libero_10` 405/500、`libero_spatial` 486/500、`libero_object` 491/500、`libero_goal` 463/500。
 
 官方 OpenPI 源码固定提交为 `215abfb217dbac7d5f1273282331b9b1866c0479`；可从[官方仓库](https://github.com/Physical-Intelligence/openpi/tree/215abfb217dbac7d5f1273282331b9b1866c0479)取得。原论文可从[作者发布页](https://www.physicalintelligence.company/download/pi0.pdf)阅读。未上传模型权重、论文 PDF、安装缓存和可重新获取的离线源码包。
+
+清理本地磁盘或重建环境前，先看[本地存储与恢复说明](docs/LOCAL_STORAGE_AND_RECOVERY.md)：仓库中的正式评测结果与未上传的官方权重、缓存和 WSL 系统盘是不同的东西。
